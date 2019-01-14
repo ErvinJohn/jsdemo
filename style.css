@@ -1,0 +1,14 @@
+
+
+
+button {
+	font-size: 50px;
+	border-color: #84b1f9;
+	background-color: #84b1f9;
+	width: 50px;
+	border-radius: 10px;
+}
+
+.out {
+	padding-left: 50px;
+}
